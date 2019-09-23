@@ -1,4 +1,4 @@
-Mike Van Sickle, Chris Hargan, Allie Menefee, and Carolyn DeCatur
+Mike XXXXXXX, Chris XXXXXXX, Allie XXXXXXX, and Carolyn XXXXXXX
 LAB 10 -- MAZE PROJECT
 CMSC 162-2
 DUE: April 30th, 2018
